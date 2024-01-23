@@ -1,0 +1,19 @@
+.h1-title {
+    font-size: 64px;
+    color: blueviolet;
+    margin-bottom: 5px;
+}
+.h2-features {
+    font-size: 42px;
+    color: blueviolet;
+}
+#qualification, #work {
+    background-color: azure;
+}
+
+@media (max-width: 576px) {
+    img.rounded-circle {
+        width: 24px;
+        height: 24px;
+    }
+}
